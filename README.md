@@ -1,5 +1,5 @@
 
-## Teori
+# Teori
 
 ## A. HSV
 HSV (Hue, Saturation, Value) adalah sebuah model warna yang digunakan untuk menggambarkan warna berdasarkan tiga komponen utama yaitu hue, saturation, dan value. Model warna HSV juga memungkinkan pemisahan warna dari faktor kecerahan, sehingga hasil deteksi lebih stabil terhadap perubahan kondisi pencahayaan.
@@ -49,7 +49,7 @@ Operasi Bitwise: Operasi bitwise melibatkan penggunaan operasi logika seperti AN
 
 Dilasi adalah teknik untuk memfilter noise yang berwarna hitam (0) menjadi warna putih (1) dan memperbesar segmen pada objek citra.
 
-## Penjelasan Project
+# Penjelasan Project
 cv2: Library OpenCV (Open Source Computer Vision) digunakan untuk melakukan berbagai operasi pengolahan citra, seperti membaca citra, manipulasi citra, deteksi objek, dll.
 
 numpy: Library NumPy (Numerical Python) digunakan untuk melakukan operasi matematika dan manipulasi array secara efisien.
